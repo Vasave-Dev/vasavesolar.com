@@ -1,0 +1,19 @@
+User-Agent: *
+Disallow: 
+Allow: /about.html
+Allow: /contact.html
+Allow: /downloads.html
+Allow: /index.html
+Allow: /investors.html
+Allow: /links.html
+Allow: /suppliers.html
+Allow: /about/program.html
+Allow: /about/solar-grid-system.html
+Allow: /docs/equipment-used.pdf
+Allow: /docs/onix-poly_panel-datasheet.pdf
+Allow: /docs/plant-material_tech-spec.pdf
+Allow: /cookies-policy.pdf
+Allow: /privacy-policy.pdf
+Allow: /terms&amp;conditions.pdf
+
+Sitemap: https://www.vasavesolar.com/sitemap.xml
